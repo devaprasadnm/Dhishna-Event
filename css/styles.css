@@ -1,0 +1,77 @@
+body{
+  color: #40514E;
+  margin:5rem;
+  font-family: 'Merriweather', serif;
+background-color:  #effffb;
+}
+h1{
+    width: 40%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+font-family: 'Sacramento', cursive;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+border-style:dotted none none;
+border-color:grey;
+border-width:5px;
+width:6%;
+}
+.logo{
+  width: 20rem;
+   float: right;
+ margin-right: 37%;
+ border-radius: 50%;
+}
+.input{
+  background-color: #e3f6f5;
+}
+.inputs{
+  background-color:  #e3f6f7;
+}
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF !important;
+  font-size: 20px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #11CDD4;text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #11CDD4;
+  padding: 10px 25px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  background: #63B8EE;
+  background: linear-gradient(top,  #11CDD4,  #11999E);
+  background: -ms-linear-gradient(top,  #11CDD4,  #11999E);
+  background: -webkit-gradient(linear, left top, left bottom, from(#11CDD4), to(#11999E));
+  background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
+  text-decoration: none;
+  margin: 1px;
+}
+.btn:hover {
+  color: #FFFFFF !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -ms-linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -webkit-gradient(linear, left top, left bottom, from(#30E3CB), to(#2BC4AD));
+  background: -moz-linear-gradient(top,  #30E3CB,  #2BC4AD);
+}
+.bottomcontainer{
+  text-align: center;
+
+}
+.twitter{
+  height: 50px;
+    margin:10px 10px;
+
+}
+.fbpic{
+  height:50px;
+    margin:10px 10px;
+}
+.instapic{
+  height: 55px;
+  margin:10px 10px;
